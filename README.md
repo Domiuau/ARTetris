@@ -23,9 +23,9 @@
 
 - É possivel configurar a aparência dos blocos e o tamanho do jogo
   
-![Rotação](https://github.com/Domiuau/TetrisConsole/blob/master/Assets/rotacao.png)
+![Configurações](https://github.com/Domiuau/ARTetris/blob/main/Assets/settings.png)
 
-![Quebra de linha](https://github.com/Domiuau/TetrisConsole/blob/master/Assets/quebraDeLinha.png)
+![Tetrinho e novos materiais](https://github.com/Domiuau/ARTetris/blob/main/Assets/tetrinho.png)
 
 # Tecnologias utilizadas
 - Swift
