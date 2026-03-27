@@ -41,7 +41,7 @@
 
 # Requisitos
 
-- iOS 13.0+
+- iOS 17.0+
 - Gasta bastante bateria
   
 ```bash
