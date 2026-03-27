@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/watch?v=PefNqsdNlLk">
 <p align="center">▶ Assista à demonstração</p>
   <img src="https://img.youtube.com/vi/PefNqsdNlLk/0.jpg" alt="Demo ARTetris" />
-</a>
+</a> 
 
 # Como jogar
 
